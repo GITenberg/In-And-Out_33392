@@ -1,0 +1,37 @@
+_repo: In-And-Out_33392
+_version: 0.1.0
+alternative_title: In & Out
+contributor:
+  illustrator:
+    agent_name: Stahr, Paul
+    alias: Stahr, Paul C.
+    birthdate: 1883
+    deathdate: 1953
+    gutenberg_agent_id: '24864'
+    url: http://www.gutenberg.org/2009/agents/24864
+covers:
+- cover_type: archival
+  image_path: 33392-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Franklin, Edgar
+    alias: Stearns, Edgar Franklin
+    birthdate: 1879
+    deathdate: 1958
+    gutenberg_agent_id: '2663'
+    url: http://www.gutenberg.org/2009/agents/2663
+description: ''
+gutenberg_issued: '2010-08-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33392'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Detective and mystery stories'
+- !lcc 'PS'
+- !lcsh 'Murder -- Fiction'
+title: In and Out
+url: http://www.gutenberg.org/ebooks/33392
